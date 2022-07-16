@@ -1,5 +1,5 @@
-## Hi there,my name is M Rausyan Fikar,nice to meet you.
-# 💫About Me :
+## Hi there,my name is M Rausyan Fikar.
+### 💫About Me :
 - Familiar with HTML,CSS,React,Next
 - Love watching movies
 - Enjoy proses slicing
@@ -7,7 +7,7 @@
 - love about marketing
 - love Footbal
 
-## 🌐Socials
+### 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rausyan-fikar-792b0a237/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rausyanfikar) 
 
 # 💻Tech Stack

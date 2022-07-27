@@ -3,7 +3,6 @@
 - Familiar with HTML,CSS,React,Next
 - Love watching movies
 - Enjoy proses slicing
-- Currently working as Eksportir Plant
 - love about marketing
 - love Footbal
 
